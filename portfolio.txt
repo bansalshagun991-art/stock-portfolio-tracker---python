@@ -1,0 +1,5 @@
+Stock Portfolio Summary
+AAPL, 2, $360
+TSLA, 1, $250
+
+Total Investment: $610
